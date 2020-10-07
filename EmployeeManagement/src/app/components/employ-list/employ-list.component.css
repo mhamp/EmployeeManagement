@@ -1,0 +1,14 @@
+table {
+    width: 100%;
+    table-layout: relative;
+  }
+  
+  th, td {
+    overflow: hidden;
+    width: 100px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  .mat_container{
+    margin: 16px;
+   }
